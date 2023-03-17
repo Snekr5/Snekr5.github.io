@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+    background-color: #E45A58;
+}
+h1 {
+    color: #F0E100;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 0px;
+    text-shadow: 20px 10px 3px #3B2E05;
+    border: thick none #FF0004;
+    border-top-right-radius: 0px;
+}
+p {
+    color: #ECDD0B;
+    border: medium dashed #FF0004;
+    background-color: #D81F70;
+    /* [disabled]bottom: auto; */
+}
