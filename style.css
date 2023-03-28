@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-    background-color: #E45A58;
+    background-color: #862E2D;
 }
 h1 {
     color: #F0E100;
@@ -12,9 +12,9 @@ h1 {
     font-size: 70px;
     line-height: 0px;
     text-shadow: 20px 10px 3px #3B2E05;
-    border: thick none #FF0004;
+    border: thick none #8D0002;
     border-top-right-radius: 0px;
-    background-color: #E81A54;
+    background-color: #8F0028;
 }
 p {
     color: #ECDD0B;

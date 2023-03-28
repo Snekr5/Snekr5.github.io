@@ -1,15 +1,20 @@
 @charset "UTF-8";
 body div {
-    background-color: #E81A54;
+    background-color: #830024;
     background-size: 80px pxpx auto;
     text-align: center;
     font-size: 20px;
 }
 body a {
     font-size: 20px;
-    background-color: #E81B54;
+    background-color: #E1426D;
     background-size: cover;
     background-clip: content-box;
     border-width: 0px;
     border-style: none;
+}
+img {
+    float: left;
+    clear: right;
+    right: auto;
 }
