@@ -16,6 +16,8 @@ h1 {
     border-top-right-radius: 0px;
     background-color: #8F0028;
 }
+body h2 {
+}
 p {
     color: #ECDD0B;
     border: medium dashed #FF0004;
