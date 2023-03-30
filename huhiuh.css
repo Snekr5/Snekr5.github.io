@@ -12,6 +12,7 @@ body a {
     background-clip: content-box;
     border-width: 0px;
     border-style: none;
+    color: #F4F001;
 }
 img {
     float: left;
